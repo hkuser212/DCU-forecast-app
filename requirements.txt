@@ -6,5 +6,5 @@ matplotlib
 seaborn
 joblib
 streamlit-navigation-bar
-xgboost==1.6.2
+xgboost==3.0.2
 setuptools
