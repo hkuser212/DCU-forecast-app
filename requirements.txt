@@ -7,3 +7,4 @@ seaborn
 joblib
 streamlit-navigation-bar
 xgboost==1.6.2
+setuptools
