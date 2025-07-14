@@ -1,8 +1,6 @@
-﻿streamlit==1.46.1
+streamlit==1.46.1
 pandas
-numpy==1.26.4  # downgrade to a widely supported version
+numpy==1.26.4
 scikit-learn
 matplotlib
-seaborn
-tensorflow==2.12.0  # lighter, more compatible version
-xgboost==1.7.6  # stable and commonly supported
+tensorflow==2.12.0
